@@ -1,0 +1,53 @@
+{
+  "title": "Site Search",
+  "search-term": "Agriculture",
+  "search-results-list": [
+    {
+      "headline": {
+        "medium": "Rice disease-resistance discovery closes the loop for scientific integrity"
+      }
+    },
+    {
+      "headline": {
+        "medium": "Drought and climate change fuel high-elevation California fires, study finds"
+      }
+    },
+    {
+      "headline": {
+        "medium": "Campus earns 2 state awards for sustainability"
+      }
+    },
+    {
+      "headline": {
+        "medium": "Study in calves offers hope for respiratory-disease treatment"
+      }
+    },
+    {
+      "headline": {
+        "medium": "Children of imprisoned parents have health problems"
+      }
+    }
+  ],
+  "filter-list": [
+    {
+      "filter": "Society, Arts & Culture",
+      "filter-num": "(23)"
+    },
+    {
+      "filter": "Agriculture",
+      "filter-num": "(30)"
+    },
+    {
+      "filter": "Science & Technology",
+      "filter-num": "(1)"
+    },
+    {
+      "filter": "University News",
+      "filter-num": "(45)"
+    },
+    {
+      "filter": "Human & Animal Health",
+      "filter-num": "(8)"
+    }
+  ]
+}

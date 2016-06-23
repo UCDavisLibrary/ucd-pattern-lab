@@ -1,0 +1,274 @@
+{
+  "title" : "Agriculture",
+  "category-brand" : "category-brand--sunny-grass",
+  "breadcrumbs" : [
+    {
+      "url" : "../04-pages-00-homepage/04-pages-00-homepage.html",
+      "link-title" : "Home"
+    },
+    {
+      "url" : "",
+      "link-title" : "Agriculture"
+    }
+  ],
+  "taxonomy-results": [
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/1",
+          "alt": "Photo"
+        }
+      },
+      "brand-class" : "category-brand--sunny-grass",
+      "headline" : {
+        "medium" : "Rice disease-resistance discovery closes the loop for scientific integrity"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "24",
+        "short": "24",
+        "ordinal": "th"
+      },
+      "cat-list": [
+        {
+          "category-value": "Agriculture",
+          "brand-color": "sunny-grass"
+        },
+        {
+          "category-value": "Society, Arts & Culture",
+          "brand-color": "california-poppy"
+        }
+      ],
+      "excerpt": {
+        "short": "When disease-resistant rice is invaded by disease-causing bacteria, a small protein produced by the bacteria betrays the invader. Upon recognizing that protein, [...]"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/2",
+          "alt": "News photo"
+        }
+      },
+      "brand-class" : "category-brand--sunny-grass",
+      "headline" : {
+        "medium" : "Drought and climate change fuel high-elevation California fires, study finds"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "24",
+        "short": "24",
+        "ordinal": "th"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "mu-brick"
+        },
+        {
+          "category-value": "Agriculture",
+          "brand-color": "sunny-grass"
+        }
+      ],
+      "excerpt": {
+        "short": "Wildfires in California’s fabled Sierra Nevada mountain range are increasingly burning high-elevation forests, which historically have seldom burned, reports a team of researchers led by the John Muir [...]"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/3",
+          "alt": "News photo"
+        }
+      },
+      "brand-class" : "category-brand--sunny-grass",
+      "headline" : {
+        "medium" : "Campus earns 2 state awards for sustainability"
+      },
+      "author": {
+        "first-name": "Dave",
+        "last-name": "Jones"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "23",
+        "short": "23",
+        "ordinal": "rd"
+      },
+      "cat-list": [
+        {
+          "category-value": "University News",
+          "brand-color": "unitrans-red"
+        },
+        {
+          "category-value": "Agriculture",
+          "brand-color": "sunny-grass"
+        }
+      ],
+      "excerpt": {
+        "short": "UC Davis received two best practice awards July 21 at the 2015 California Higher Education Sustainability Conference — one in the category of sustainable food service and the other in waste reduction. [...]"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/technics/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class" : "category-brand--sunny-grass",
+      "headline" : {
+        "medium" : "Study in calves offers hope for respiratory-disease treatment"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "23",
+        "short": "23",
+        "ordinal": "rd"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        },
+        {
+          "category-value": "Agriculture",
+          "brand-color": "sunny-grass"
+        }
+      ],
+      "excerpt": {
+        "short": "As every parent knows, respiratory illnesses — complete with runny nose, sore throat and cough — are quite routine for young children and usually pass as quickly as they appear. [...]"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/people/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class" : "category-brand--sunny-grass",
+      "headline" : {
+        "medium" : "Children of imprisoned parents have health problems"
+      },
+      "author": {
+        "first-name": "Jeffrey",
+        "last-name": "Day"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "17",
+        "short": "17",
+        "ordinal": "th"
+      },
+      "cat-list": [
+        {
+          "category-value": "Agriculture",
+          "brand-color": "sunny-grass"
+        },
+        {
+          "category-value": "Human & Animal Health",
+          "brand-color": "mu-brick"
+        }
+      ],
+      "excerpt": {
+        "short": "Children whose parents are in prison have worse health, poorer school performance and are at a greater risk for depression, anxiety, asthma and HIV/AIDS, according to a policy brief released by the Center for [...]"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/city/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class" : "category-brand--sunny-grass",
+      "headline" : {
+        "medium" : "UC Davis receives ‘A’ grade in Money’s ‘Best Colleges’"
+      },
+      "author": {
+        "first-name": "Karen",
+        "last-name": "Nikos-Rose"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "14",
+        "short": "14",
+        "ordinal": "th"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        },
+        {
+          "category-value": "Agriculture",
+          "brand-color": "sunny-grass"
+        }
+      ],
+      "excerpt": {
+        "short": "The University of California, Davis, received an “A” grade in Money magazine’s 2015 “Best Colleges,” measuring educational quality, affordability and career earnings to help families find great schools that are truly worth the investment. [...]"
+      }
+    }
+  ]
+}

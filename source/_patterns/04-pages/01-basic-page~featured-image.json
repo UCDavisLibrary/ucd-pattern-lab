@@ -1,0 +1,12 @@
+{
+  "title" : "Basic Page - Featured Image",
+  "featured-image": {
+    "category-brand": "category-brand--western-redbud",
+    "img": {
+      "title-banner": {
+        "src": "../../images/sample/campus-life-homecoming.jpg",
+        "alt": "Homecoming revelers"
+      }
+    }
+  }
+}

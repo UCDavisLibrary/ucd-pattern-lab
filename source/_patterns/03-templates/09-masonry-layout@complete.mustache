@@ -1,0 +1,51 @@
+<div class="page l-header--fixed">
+  {{> organisms-header }}
+  <div class="l-main" role="main">
+
+    {{> organisms-page-title }}
+
+    <div class="l-container l-davis-flipped">
+      {{> molecules-breadcrumbs }}
+
+      <div class="l-content">
+        <div class="panel o-box--large panel--intro">
+          <h2 class="panel__title">{{ headline.short }}</h2>
+          {{{ excerpt.long }}}
+        </div>
+
+        <div class="l-mason-grid">
+          <div class="l-mason-grid__gutter"></div>
+
+          {{# marketing-highlight.short-burst }}
+            <div class="panel l-mason-grid__item">
+              {{> molecules-marketing-highlight }}
+            </div>
+          {{/ marketing-highlight.short-burst }}
+
+          <div class="panel l-mason-grid__item l-mason-grid__item--width2">
+            {{> molecules-marketing-highlight }}
+          </div>
+
+          {{# marketing-highlight.long-burst }}
+            <div class="panel l-mason-grid__item">
+              {{> molecules-marketing-highlight }}
+            </div>
+          {{/ marketing-highlight.long-burst }}
+
+        </div>
+      </div><!--end .l-content-->
+
+      <div class="l-sidebar-second">
+        <div class="panel">
+          {{> molecules-sub-nav }}
+        </div>
+        <div class="panel panel--transparent panel--auxilary">
+          <h2 class="panel__title">Follow Us</h2>
+          {{> molecules-social-follow }}
+        </div>
+      </div><!--end .l-sidebar-second-->
+
+    </div>
+  </div><!--End role=main-->
+  {{> organisms-footer }}
+</div>

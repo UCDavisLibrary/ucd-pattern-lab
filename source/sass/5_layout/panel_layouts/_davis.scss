@@ -1,0 +1,16 @@
+// Mimics the Panels layout called Brenham
+@include add-grid(4 4 4 at $bp-medium--up);
+
+.l-davis {
+  .l-content {
+    @include breakpoint($bp-medium--up, true) {
+      @include grid-span(2, 2);
+    }
+  }
+
+  .l-sidebar-first {
+    @include breakpoint($bp-medium--up, true) {
+      @include grid-span(1, 1);
+    }
+  }
+}

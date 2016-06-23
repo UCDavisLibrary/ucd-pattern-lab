@@ -1,0 +1,8 @@
+<!-- Use molecules-teaser for lists -->
+<section class="latest-news">
+  {{# latest-news }}
+    {{> molecules-teaser(teaser-byline: true, teaser-categorized: true) }}
+  {{/ latest-news }}
+
+  {{> molecules-pagination }}
+</section>

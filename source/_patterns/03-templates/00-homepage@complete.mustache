@@ -1,0 +1,54 @@
+<div class="page l-header--fixed">
+  {{> organisms-header }}
+  <div class="l-main l-davis" role="main">
+
+    <div class="panel">
+      {{> organisms-hero-banner:hero-banner--sepia-fade }}
+    </div>
+
+    {{# emergency }}
+      {{> molecules-alert-error }}
+    {{/ emergency }}
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="panel">
+          {{> molecules-spotlight:category-brand--western-redbud }}
+        </div>
+        {{# marketing-highlight-featured.short-burst }}
+          <div class="panel l-sibling-grid--half">
+            {{> molecules-marketing-highlight:marketing-highlight--featured }}
+          </div>
+        {{/ marketing-highlight-featured.short-burst }}
+        <div class="panel">
+          {{> atoms-video-youtube }}
+        </div>
+        <div class="panel">
+          {{> molecules-slideshow }}
+        </div>
+        <div class="panel panel--transparent panel--auxilary">
+          <h2 class="panel__title">Follow Us</h2>
+          {{> molecules-social-follow }}
+        </div>
+      </div><!--end .l-content-->
+
+      <div class="l-sidebar-first">
+        <div class="panel o-box panel--icon panel--icon-bullhorn">
+          <h2 class="panel__title">Upcoming Events</h2>
+          {{> organisms-event-list }}
+        </div>
+        <div class="panel o-box panel--icon panel--icon-bulb">
+          <h2 class="panel__title">Top Stories</h2>
+          {{> organisms-article-list }}
+        </div>
+        {{# focal-links }}
+          <div class="panel">
+            {{> molecules-focal-link }}
+          </div>
+        {{/ focal-links }}
+      </div><!--end .l-sidebar-first-->
+
+    </div>
+  </div><!--End role=main-->
+  {{> organisms-footer }}
+</div>

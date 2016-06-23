@@ -1,0 +1,9 @@
+# Dependencies
+bower_components
+node_modules
+
+# Ignore Sass map files since they only work locally anyway
+*.css.map
+
+# Custom Local config
+gulp-config--custom.yml

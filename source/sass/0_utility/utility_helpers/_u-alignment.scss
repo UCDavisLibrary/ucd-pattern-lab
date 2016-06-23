@@ -1,0 +1,39 @@
+// Align Right
+.u-align--right {
+  @include breakpoint($bp-small--up, true) {
+    float: right !important;
+    margin-bottom: $spacer;
+    margin-left: $spacer;
+  }
+}
+
+// Align Left
+.u-align--left {
+  @include breakpoint($bp-small--up, true) {
+    float: left !important;
+    margin-bottom: $spacer;
+    margin-right: $spacer;
+  }
+}
+
+
+// Align Center
+.u-align--center {
+  margin: 0 auto !important;
+  text-align: center !important;
+
+  // Fix figure and figcaptions when aligned center
+  figure {
+    display: block;
+
+    // Force an immediate child so that it doesn't break stuff in ckeditor
+    > img {
+      width: auto;
+    }
+  }
+
+  figcaption {
+    @include font-size(12px, 18px);
+    display: block;
+  }
+}

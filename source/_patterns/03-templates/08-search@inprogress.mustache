@@ -1,0 +1,38 @@
+<div class="page l-header--fixed">
+  {{> organisms-header }}
+  <div class="l-main" role="main">
+
+    {{> organisms-page-title }}
+
+    <div class="l-container l-davis-flipped">
+      {{> molecules-breadcrumbs }}
+
+      <div class="l-content">
+        <div class="panel">
+          {{> molecules-search-form }}
+        </div>
+        <div class="panel o-box--large">
+          {{> atoms-search-findings }}
+          {{# search-results-list }}
+            <h2><a href="{{ url }}">{{ headline.medium }}</a></h2>
+          {{/ search-results-list}}
+        </div>
+      </div><!--end .l-content-->
+
+      <div class="l-sidebar-second">
+        <div class="panel o-box">
+          <h2 class="panel__title">Filters</h2>
+            <ul class="list--filter">
+              {{# filter-list }}
+                <li>
+                  <label><input type="checkbox">{{ filter }} {{ filter-num }}</label>
+                </li>
+              {{/ filter-list }}
+            </ul>
+        </div>
+      </div><!--end .l-sidebar-second-->
+
+    </div>
+  </div><!--End role=main-->
+  {{> organisms-footer }}
+</div>

@@ -1,0 +1,36 @@
+.media-link {
+  text-decoration: none;
+
+  &__wrapper {
+    @extend %o-media;
+    padding: $spacer--small;
+    transition: background-color .2s ease-in-out;
+
+    @include breakpoint($bp-small--up) {
+      margin: 0;
+      padding: $spacer * 1.5;
+    }
+
+    &:hover {
+      background-color: $brand--secondary-10;
+    }
+  }
+
+  &__figure {
+    @extend %o-media__figure;
+    max-width: 25%;
+  }
+
+  &__body {
+    @extend %o-media__body;
+  }
+
+  &__title {
+    @include heading--auxiliary();
+  }
+
+  // remove underlines even when wrapped with .body-text
+  .body-text & {
+    text-decoration: none;
+  }
+}

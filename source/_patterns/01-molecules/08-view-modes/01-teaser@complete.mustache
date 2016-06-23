@@ -1,0 +1,43 @@
+<article class="o-media vm-teaser {{# featured }}vm-teaser--featured{{/ featured }} {{ brand-class }} {{ styleModifier }}">
+  {{# has-media-figure }}
+    <div class="o-media__figure vm-teaser__figure category category-brand__thumbnail">
+      <a href="{{ url }}">{{> atoms-thumbnail }}</a>
+    </div>
+  {{/ has-media-figure }}
+  <div class="o-media__body">
+    <h3 class="vm-teaser__title"><a href="{{ url }}">{{ headline.medium }}</a></h3>
+    {{# teaser-byline }}
+      <ul class="vm-teaser__byline">
+        <li>{{> molecules-byline }}</li>
+        <li>{{ month.long }} {{ day.short }}, {{ year.long }}</li>
+      </ul>
+    {{/ teaser-byline }}
+    {{# teaser-person }}
+      <ul class="vm-teaser__position">
+        <li><b>{{ person-title }}</b></li>
+        <li>{{ person-dept }}</li>
+      </ul>
+    {{/ teaser-person }}
+    {{# teaser-categorized }}
+      <ul class="vm-teaser__categories">
+        {{# cat-list }}
+          <li class="{{ brand-color }}"><a href="{{ url }}">{{ category-value }}</a></li>
+        {{/cat-list}}
+      </ul>
+    {{/ teaser-categorized }}
+    <div class="vm-teaser__summary">{{ excerpt.short }}</div>
+    {{# teaser-person }}
+      <div class="vm-teaser__contact">
+        <span class="icon icon--phone">{{ phone-num }}</span>
+        <span class="icon icon-link icon--envelope">
+          <a href="{{ url }}">{{ email-add }}</a>
+        </span>
+      </div>
+    {{/ teaser-person }}
+    {{# teaser-button }}
+      <div class="vm-teaser__btn">
+        <a href="#" class="btn btn--sm">{{ teaser-btn-txt }}</a>
+      </div>
+    {{/ teaser-button }}
+  </div>
+</article>

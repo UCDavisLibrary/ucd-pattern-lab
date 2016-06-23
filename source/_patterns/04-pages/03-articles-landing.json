@@ -1,0 +1,466 @@
+{
+  "title": "News",
+  "bodyClass": "article",
+  "breadcrumbs": [
+    {
+      "url": "../04-pages-00-homepage/04-pages-00-homepage.html",
+      "link-title": "Home"
+    },
+    {
+      "url": "",
+      "link-title": "News"
+    }
+  ],
+  "img": {
+    "landscape-16x9": {
+      "src": "../../images/sample/article/foal.jpg",
+      "alt": "Foal"
+    }
+  },
+  "latest-news": [
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--wine-grape",
+      "headline": {
+        "medium": "Rice disease-resistance discovery closes the loop for scientific integrity"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "24"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        },
+        {
+          "category-value": "Society, Arts & Culture",
+          "brand-color": "unitrans-red"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/2",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--western-redbud",
+      "headline": {
+        "medium": "Drought and climate change fuel high-elevation California fires, study finds"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "24"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/3",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--western-redbud",
+      "headline": {
+        "medium": "Campus earns 2 state awards for sustainability"
+      },
+      "author": {
+        "first-name": "Dave",
+        "last-name": "Jones"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "23"
+      },
+      "cat-list": [
+        {
+          "category-value": "University News",
+          "brand-color": "admin-blue"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/technics/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--sunny-grass",
+      "headline": {
+        "medium": "Study in calves offers hope for respiratory-disease treatment"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "23"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/people/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--unitrans-red",
+      "headline": {
+        "medium": "Children of imprisoned parents have health problems"
+      },
+      "author": {
+        "first-name": "Jeffrey",
+        "last-name": "Day"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "17"
+      },
+      "cat-list": [
+        {
+          "category-value": "Human & Animal Health",
+          "brand-color": "sunny-grass"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/city/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--admin-blued",
+      "headline": {
+        "medium": "UC Davis receives ‘A’ grade in Money’s ‘Best Colleges’"
+      },
+      "author": {
+        "first-name": "Karen",
+        "last-name": "Nikos-Rose"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "14"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/technics/2",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--western-redbud",
+      "headline": {
+        "medium": "Residents use video and other tech effectively to report environmental hazards"
+      },
+      "author": {
+        "first-name": "Jeffrey",
+        "last-name": "Day"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "10"
+      },
+      "cat-list": [
+        {
+          "category-value": "Science & Technology",
+          "brand-color": "sky-blue"
+        },
+        {
+          "category-value": "Society, Arts & Culture",
+          "brand-color": "unitrans-red"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/3",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--western-redbud",
+      "headline": {
+        "medium": "‘Cool’ conservation: UC Davis saves 61 million gallons of water a year"
+      },
+      "author": {
+        "first-name": "Kat",
+        "last-name": "Kerlin"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "June"
+      },
+      "day": {
+        "short": "30"
+      },
+      "cat-list": [
+        {
+          "category-value": "University News",
+          "brand-color": "admin-blue"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/nature/4",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--sky-blue",
+      "headline": {
+        "medium": "Baboon study reveals surprises, breaks ground in tracking behavior"
+      },
+      "author": {
+        "first-name": "Jeffrey",
+        "last-name": "Day"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "June"
+      },
+      "day": {
+        "short": "18"
+      },
+      "cat-list": [
+        {
+          "category-value": "University News",
+          "brand-color": "admin-blue"
+        }
+      ]
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "http://lorempixel.com/200/200/food/1",
+          "alt": "News photo"
+        }
+      },
+      "brand-class": "category-brand--wine-grape",
+      "headline": {
+        "medium": "Craft-brewing leader gives $1 million to enhance UC Davis brewing facility"
+      },
+      "author": {
+        "first-name": "Pat",
+        "last-name": "Bailey"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "June"
+      },
+      "day": {
+        "short": "15"
+      },
+      "cat-list": [
+        {
+          "category-value": "University News",
+          "brand-color": "admin-blue"
+        }
+      ]
+    }
+  ],
+  "article-list": [
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/article/almonds.jpg",
+          "alt": "almonds"
+        }
+      },
+      "headline": {
+        "medium": "Almonds contribute little to carbon emissions, study finds"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "24"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/article/warbler.jpg",
+          "alt": "warbler"
+        }
+      },
+      "headline": {
+        "medium": "Keep Tahoe blue? Less algae, not clarity, key factor for blueness"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "23",
+        "short": "23",
+        "ordinal": "rd"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/article/vole.jpg",
+          "alt": "vole"
+        }
+      },
+      "headline": {
+        "medium": "Lyme disease subverts immune system, prevents future protection"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "July",
+        "short": "Jul",
+        "digit": "07"
+      },
+      "day": {
+        "long": "02",
+        "short": "2",
+        "ordinal": "nd"
+      }
+    }
+  ],
+  "category-filter": [
+    {
+      "brand-color": "category-brand--admin-blue",
+      "is-active-link": true,
+      "text": "University News"
+    },
+    {
+      "brand-color": "category-brand--unitrans-red",
+      "text": "Society, Arts & Culture"
+    },
+    {
+      "brand-color": "category-brand--wine-grape",
+      "text": "Food & Agriculture"
+    },
+    {
+      "brand-color": "category-brand--sunny-grass",
+      "text": "Environment"
+    },
+    {
+      "brand-color": "category-brand--sky-blue",
+      "text": "Science & Technology"
+    },
+    {
+      "brand-color": "category-brand--western-redbud",
+      "text": "Student Life"
+    },
+    {
+      "brand-color": "category-brand--california-poppy",
+      "text": "Education"
+    }
+  ],
+  "tag-list": [
+    {
+      "link-title": "Autism"
+    },
+    {
+      "link-title": "Veterinary Medicine"
+    },
+    {
+      "link-title": "Equine Health"
+    },
+    {
+      "link-title": "Research"
+    },
+    {
+      "link-title": "Agriculture"
+    },
+    {
+      "link-title": "One Health"
+    },
+    {
+      "link-title": "Breakthrough"
+    }
+  ]
+}

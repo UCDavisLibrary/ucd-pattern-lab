@@ -1,0 +1,30 @@
+<div class="page l-header--fixed">
+  {{> organisms-header }}
+    <div class="l-main" role="main">
+
+      {{> organisms-page-title }}
+
+        <div class="l-container l-davis-flipped">
+          {{> molecules-breadcrumbs }}
+
+            <div class="l-content">
+              <div class="panel o-box--large">
+                {{> molecules-o-media }}
+              </div>
+            </div><!--end .l-content-->
+
+            <div class="l-sidebar-second">
+              <div class="panel o-box">
+                <h2 class="panel__title">Contact Info</h2>
+                {{> molecules-contact-info }}
+              </div>
+              <div class="panel o-box">
+                <h2 class="panel__title">Person's Content</h2>
+                {{> organisms-article-list }}
+              </div>
+            </div><!--end .l-sidebar-second-->
+
+        </div>
+    </div><!--End role=main-->
+  {{> organisms-footer }}
+</div>

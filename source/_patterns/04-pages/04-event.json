@@ -1,0 +1,153 @@
+{
+  "title": "Spring Quarter: Schedule Adjustment",
+  "bodyClass": "event",
+  "breadcrumbs": [
+    {
+      "url": "../04-pages-00-homepage/04-pages-00-homepage.html",
+      "link-title": "Home"
+    },
+    {
+      "url": "",
+      "link-title": "Events"
+    },
+    {
+      "url": "",
+      "link-title": "Spring Quarter: Schedule Adjustment"
+    }
+  ],
+  "page-copy": {
+    "section-01": {
+      "heading": "",
+      "text": "Schedule Adjustment begins after the registration freeze ends for the quarter. During this time you may adjust your schedule on Schedule Builder or SISWeb by adding or dropping courses, selecting the P/NP grading option for courses, or changing the number of units for variable-unit courses until the deadlines as published in the Academic Calendar."
+    },
+    "section-02": {
+      "heading": "When can I do this?",
+      "text": "<strong>Weekdays</strong> 6:00 a.m.–midnight <br> <strong>Weekends</strong> 10:00 a.m.–6:00 p.m."
+    },
+    "section-03": {
+      "heading": "",
+      "text": ""
+    }
+  },
+  "img": {
+    "landscape-4x3": {
+      "src": "../../images/sample/event/clock-4x3.jpg",
+      "alt": "Swaddled baby"
+    },
+    "landscape-16x9": {
+      "src": "../../images/sample/event/clock-16x9.jpg",
+      "alt": "Foal"
+    }
+  },
+  "event-list": [
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/research/doctoral-student.jpg",
+          "alt": "doctoral student researching"
+        }
+      },
+      "headline": {
+        "medium": "Native Plants: Home Landscape Champions"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "11"
+      }
+    },
+    {
+      "has-media-figure": false,
+      "headline": {
+        "medium": "Neighbors for Nepal Benefit Dinner and Concert"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "10"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/tiles/arboretum.jpg",
+          "alt": "Public Univerities"
+        }
+      },
+      "headline": {
+        "medium": "“Public Universities and Regional Development”"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "16"
+      }
+    }
+  ],
+  "category-filter": [
+    {
+      "brand-color": "category-brand--admin-blue",
+      "is-active-link": false,
+      "text": "University News"
+    },
+    {
+      "brand-color": "category-brand--unitrans-red",
+      "text": "Society, Arts & Culture"
+    },
+    {
+      "brand-color": "category-brand--wine-grape",
+      "text": "Food & Agriculture"
+    },
+    {
+      "brand-color": "category-brand--sunny-grass",
+      "text": "Environment"
+    },
+    {
+      "brand-color": "category-brand--sky-blue",
+      "text": "Science & Technology"
+    },
+    {
+      "brand-color": "category-brand--western-redbud",
+      "text": "Student Life"
+    },
+    {
+      "brand-color": "category-brand--california-poppy",
+      "text": "Education"
+    }
+  ],
+  "tag-list": [
+    {
+      "link-title": "Time Change"
+    },
+    {
+      "link-title": "Schedule"
+    },
+    {
+      "link-title": "Spring Quarter"
+    },
+    {
+      "link-title": "Schedule Builder"
+    },
+    {
+      "link-title": "Academic Calendar"
+    },
+    {
+      "link-title": "Registration"
+    },
+    {
+      "link-title": "Campus"
+    }
+  ]
+}

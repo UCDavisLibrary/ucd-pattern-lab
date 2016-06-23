@@ -1,0 +1,16 @@
+// Mimics the Panels layout called Brenham Flipped
+@include add-grid(4 4 4 at $bp-medium--up);
+
+.l-davis-flipped {
+  .l-content {
+    @include breakpoint($bp-medium--up, true) {
+      @include grid-span(2, 1);
+    }
+  }
+
+  .l-sidebar-second {
+    @include breakpoint($bp-medium--up, true) {
+      @include grid-span(1, 3);
+    }
+  }
+}

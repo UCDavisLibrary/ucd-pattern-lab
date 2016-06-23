@@ -1,0 +1,11 @@
+<div class="vm-listing o-media {{ styleModifier }}">
+  {{# has-media-figure }}
+  <div class="o-media__figure">
+    <a href="{{ url }}" class="category-brand__thumbnail">{{> atoms-thumbnail }}</a>
+  </div>
+  {{/ has-media-figure}}
+  <div class="o-media__body">
+    <h3 class="vm-listing__title"><a href="{{ url }}">{{ headline.medium }}</a></h3>
+    <div class="vm-listing__submitted">{{ month.long }} {{ day.short }},  {{ year.long }}</div>
+  </div>
+</div>

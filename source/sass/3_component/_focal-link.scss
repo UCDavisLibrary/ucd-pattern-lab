@@ -1,0 +1,64 @@
+// Featured Links
+$focal-link-size: 63px;
+
+.focal-link {
+  @extend %o-media;
+  align-items: center;
+  margin-bottom: $spacer;
+  padding: $spacer;
+  transition: background-color .2s ease-in-out;
+
+  &:hover {
+    background-color: $brand--secondary-10;
+    text-decoration: none;
+  }
+
+  &__figure {
+    @extend %o-media__figure;
+    max-width: 25%;
+
+    // Sizing uploaded img's to match svg sprite
+    img {
+      width: $focal-link-size;
+    }
+  }
+
+  &__body {
+    @extend %o-media__body;
+    @include font-size(17px);
+  }
+
+  // Reverse the image to the right side
+  &--rev {
+    @extend %o-media--rev;
+  }
+
+  // Sprite icons for when not using an <img> tag. Add this to the &__figure div
+  &__icon {
+    // Create responsive sprite icons
+    $focal-link-icons: (
+      "bookmark",
+      "groups",
+      "contact",
+      "calendar",
+      "read",
+      "giving",
+      "jobs",
+      "mailing-list",
+      "menu",
+      "org-chart",
+      "orientation", //TODO delete
+      "read", //TODO delete
+      "save",
+      "research",
+      "tour"
+    );
+
+    // Make sure that the sprite is 63x63 pixels
+    @include horizontal-sprite("../images/icons-focal-links.svg", $focal-link-icons, $focal-link-size, $focal-link-size);
+
+    .no-svg & {
+      background-image: url(../images/icons-focal-links.png);
+    }
+  }
+}

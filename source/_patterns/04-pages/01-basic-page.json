@@ -1,0 +1,25 @@
+{
+  "title" : "Basic Page",
+  "tertiary-page": true,
+  "parent-page-title": "Parent Page",
+  "img": {
+    "landscape-4x3": {
+      "src": "../../images/sample/tulips-4x3.jpg",
+      "alt": "Tulips"
+    }
+  },
+  "breadcrumbs" : [
+    {
+      "url" : "../04-pages-00-homepage/04-pages-00-homepage.html",
+      "link-title" : "Home"
+    },
+    {
+      "url" : "",
+      "link-title" : "Parent Page"
+    },
+    {
+      "url" : "",
+      "link-title" : "Basic Page"
+    }
+  ]
+}

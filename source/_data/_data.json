@@ -1,0 +1,527 @@
+{
+  "site-name": "SiteFarm",
+  "slogan": "Websites Grown Here",
+  "title": "Page Title",
+  "htmlClass": "pl",
+  "bodyClass": "body",
+  "site-logo": "../../images/site-logo.svg",
+  "ucd-logo": {
+    "white": "../../images/uc-logo-white.svg",
+    "blue": "../../images/uc-logo-blue.svg",
+    "gold": "../../images/uc-logo-gold.svg"
+  },
+  "img": {
+    "landscape-4x3": {
+      "src": "http://placehold.it/640x480",
+      "alt": "4x3 Image"
+    },
+    "landscape-16x9": {
+      "src": "http://placehold.it/1280x720",
+      "alt": "16x9 Image"
+    },
+    "thumbnail": {
+      "src": "http://placehold.it/135x135",
+      "alt": "Thumbnail"
+    },
+    "focal-link": {
+      "src": "http://placehold.it/63x63",
+      "alt": "Focal Link Image"
+    },
+    "featured": {
+      "src": "http://placehold.it/500x375",
+      "alt": "Featured Image"
+    },
+    "hero": {
+      "src": "http://placehold.it/2000x770",
+      "alt": "Featured Hero Image"
+    },
+    "slideshow": {
+      "src": "http://placehold.it/1000x563",
+      "lazy": "http://placehold.it/1000x563",
+      "alt": "Slideshow Image"
+    },
+    "slideshow-thumbnail": {
+      "src": "http://placehold.it/320x180",
+      "lazy": "http://placehold.it/320x180",
+      "alt": "Slideshow Thumbnail Image"
+    },
+    "title-banner": {
+      "src": "http://placehold.it/2000x460",
+      "alt": "Title Banner"
+    },
+    "focus": {
+      "src": "http://placehold.it/1000x380",
+      "alt": "Focus Image"
+    },
+    "profile-image": {
+      "src": "http://placehold.it/520x580",
+      "alt": "Profile Highlight Image"
+    }
+  },
+  "hero-banner": {
+    "btn-video": false,
+    "title": "Lorem ipsum (27 characters)",
+    "btn-text": "Apply Now"
+  },
+  "headline": {
+    "short": "Lorem ipsum dolor sit (37 characters)",
+    "medium": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. (72 characters)"
+  },
+  "excerpt": {
+    "short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "medium": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "long": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "description": "So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.",
+  "location": "Location for the event",
+  "url": "#",
+  "figcaption": "This is some caption text for an image",
+  "name": {
+    "first": "Lacy",
+    "firsti": "L",
+    "middle": "Tommie",
+    "middlei": "T",
+    "last": "Way",
+    "lasti": "W"
+  },
+  "year": {
+    "long": "2015",
+    "short": "13"
+  },
+  "month": {
+    "long": "February",
+    "short": "Feb",
+    "digit": "2"
+  },
+  "dayofweek": {
+    "long": "Monday",
+    "short": "Mon"
+  },
+  "day": {
+    "long": "10",
+    "short": "10",
+    "ordinal": "th"
+  },
+  "hour": {
+    "long": "01",
+    "short": "1",
+    "military": "13",
+    "ampm": "pm"
+  },
+  "minute": {
+    "long": "20",
+    "short": "20"
+  },
+  "seconds": "31",
+  "author": {
+    "first-name": "Author",
+    "last-name": "Name"
+  },
+  "breadcrumbs": [
+    {
+      "url": "../03-templates-00-homepage/03-templates-00-homepage.html",
+      "link-title": "Home"
+    },
+    {
+      "url": "#",
+      "link-title": "Current Page"
+    }
+  ],
+  "brand-class": "category-brand--ucdadmin",
+  "emergency": false,
+  "action-text": "This is a Call to Action link",
+  "video-id": "nZZDAzErkIU",
+  "video-width": "853",
+  "video-height": "480",
+  "wysiwyg-feature-block": {
+    "title": "Title for the wysiwyg-feature-block",
+    "text": "Sed vehicula metus tellus, ut scelerisque justo posuere eget. Suspendisse eu feugiat nibh.</a>."
+  },
+  "slideshow": [
+    {
+      "slides": [
+        {
+          "slide-title": {
+            "first-word": "slide",
+            "remaining": "title"
+          },
+          "caption": "Look at me I'm a caption."
+        },
+        {
+          "caption": "I am also a caption."
+        },
+        {},
+        {},
+        {}
+      ],
+      "has-thumbnails": false,
+      "thumb-slides": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text one",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": "Look at me I'm a caption."
+    },
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text two",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": "I Also, am a caption."
+    },
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text three",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": false
+    },
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text three",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": false
+    },
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text three",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": false
+    },
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text three",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": false
+    },
+    {
+      "img": {
+        "full": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "Alt text three",
+          "width": "1280",
+          "height": "720"
+        },
+        "thumb": {
+          "src": "http://placehold.it/1280x720",
+          "alt": "16x9 Image"
+        }
+      },
+      "caption": false
+    }
+  ],
+  "focal-links": [
+    {},
+    {},
+    {}
+  ],
+  "search-results-list": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "marketing-highlight": {
+    "short-burst": [
+      {
+        "brand-class": "category-brand--california-poppy"
+      },
+      {
+        "brand-class": "category-brand--western-redbud"
+      },
+      {
+        "brand-class": "category-brand--wine-grape"
+      }
+    ],
+    "long-burst": [
+      {
+        "brand-class": "category-brand--wine-grape"
+      },
+      {
+        "brand-class": "category-brand--california-poppy"
+      },
+      {
+        "brand-class": "category-brand--western-redbud"
+      },
+      {
+        "brand-class": "category-brand--sunny-grass"
+      },
+      {
+        "brand-class": "category-brand--sky-blue"
+      },
+      {
+        "brand-class": "category-brand--wine-grape"
+      },
+      {
+        "brand-class": "category-brand--wine-grape"
+      },
+      {
+        "brand-class": "category-brand--sunny-grass"
+      },
+      {
+        "brand-class": "category-brand--california-poppy"
+      },
+      {
+        "brand-class": "category-brand--western-redbud"
+      }
+    ]
+  },
+  "marketing-highlight-featured": {
+    "short-burst": [
+      {
+        "brand-class": "category-brand--california-poppy",
+        "highlight-label": "Lorem Ipsum",
+        "cta-text": "Lorem Ipsum Dolar"
+      },
+      {
+        "brand-class": "category-brand--western-redbud",
+        "highlight-label": "Lorem Ipsum",
+        "cta-text": "Lorem Ipsum Dolar",
+        "excerpt": {
+          "short": ""
+        }
+      }
+    ]
+  },
+  "spotlight": {
+    "url": "",
+    "callout": "5"
+  },
+  "tag-list": [
+    {
+      "link-title": "tag 1"
+    },
+    {
+      "link-title": "tag 2"
+    },
+    {
+      "link-title": "tag 3"
+    },
+    {
+      "link-title": "tag 4"
+    },
+    {
+      "link-title": "tag 5"
+    },
+    {
+      "link-title": "tag 6"
+    },
+    {
+      "link-title": "tag 7"
+    }
+  ],
+  "latest-news": [
+    {},
+    {
+      "featured": true
+    },
+    {},
+    {},
+    {},
+    {
+      "featured": true
+    }
+  ],
+  "taxonomy-results": [
+    {},
+    {
+      "featured": true
+    },
+    {},
+    {},
+    {},
+    {
+      "featured": true
+    }
+  ],
+  "category": {
+    "primary": "Snozzberries",
+    "secondary": "Gobstopper"
+  },
+  "article-list": [
+    {},
+    {},
+    {}
+  ],
+  "event-list": [
+    {},
+    {},
+    {}
+  ],
+  "people-list": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "search-result-num": "5",
+  "category-filter": [
+    {
+      "brand-color": "category-brand--admin-blue",
+      "is-active-link": true,
+      "text": "Lorem Ipsum"
+    },
+    {
+      "brand-color": "category-brand--unitrans-red",
+      "text": "Lorem Ipsum"
+    },
+    {
+      "brand-color": "category-brand--wine-grape",
+      "text": "Lorem Ipsum"
+    },
+    {
+      "brand-color": "category-brand--sunny-grass",
+      "text": "Lorem Ipsum"
+    },
+    {
+      "brand-color": "category-brand--sky-blue",
+      "text": "Lorem Ipsum"
+    },
+    {
+      "brand-color": "category-brand--western-redbud",
+      "text": "Lorem Ipsum"
+    },
+    {
+      "brand-color": "category-brand--california-poppy",
+      "text": "Lorem Ipsum"
+    }
+  ],
+  "placeholder": "Search",
+  "text-input-text": "Input Title",
+  "text-input-placeholder": "Enter Text...",
+  "page-copy": {
+    "section-01": {
+      "heading": "Lorem ipsum dolor sit (37 characters)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "section-02": {
+      "heading": "Lorem ipsum dolor sit (37 characters)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "section-03": {
+      "heading": "Lorem ipsum dolor sit (37 characters)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "section-04": {
+      "heading": "Lorem ipsum dolor sit (37 characters)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "section-05": {
+      "heading": "Lorem ipsum dolor sit (37 characters)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "section-06": {
+      "heading": "Lorem ipsum dolor sit (37 characters)",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  },
+  "focus-box-title": "Focus Box Title",
+  "focus-box-text": "Lorem ipsum dolar sit amet.",
+  "has-figure": true,
+  "has-media-figure": true,
+  "presenter": {
+    "prefix": "Presented by",
+    "name": "UC Davis"
+  },
+  "add-to-calendar": "Add to your calendar",
+  "phone-num": "530-752-5555",
+  "email-add": "Joe@ucdavis.edu",
+  "web-link": "www.mypage.com",
+  "filter-list": [
+    {
+      "filter": "filter",
+      "filter-num": "(2)"
+    },
+    {
+      "filter": "filter",
+      "filter-num": "(2)"
+    },
+    {
+      "filter": "filter",
+      "filter-num": "(2)"
+    },
+    {
+      "filter": "filter",
+      "filter-num": "(2)"
+    },
+    {
+      "filter": "filter",
+      "filter-num": "(2)"
+    }
+  ],
+  "cat-list": [
+    {
+      "category-value": "Sample Category One",
+      "brand-color": "sky-blue"
+    },
+    {
+      "category-value": "Sample Category Two",
+      "brand-color": "sunny-grass"
+    }
+  ],
+  "person-title": "Job Title",
+  "person-dept": "Department"
+}

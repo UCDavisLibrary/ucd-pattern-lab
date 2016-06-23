@@ -1,0 +1,69 @@
+// Styles content with icons
+
+.icon {
+  padding-left: $spacer * 1.5;
+
+  &-link {
+    font-weight: $font-weight--bold;
+    text-decoration: underline;
+  }
+
+  // MIT License
+  // https://www.iconfinder.com/icons/211633/calendar_icon#size=128
+  &--calendar {
+    background: url("../images/icons/calendar.svg") no-repeat 0 .1em;
+
+    .no-svg & {
+      background-image: url("../images/icons/calendar.png");
+    }
+  }
+
+  // No link back commercial license
+  // https://www.iconfinder.com/icons/274903/gps_home_map_navigation_network_pin_place_technology_web_icon#size=128
+  &--location {
+    background: url("../images/icons/map-pin.svg") no-repeat 0 .1em;
+
+    .no-svg & {
+      background-image: url("../images/icons/map-pin.png");
+    }
+  }
+
+  // No link back commercial license
+  // https://www.iconfinder.com/icons/326545/call_phone_icon#size=128
+  &--phone {
+    background: url("../images/icons/phone.svg") no-repeat 0 .1em;
+
+    .no-svg & {
+      background-image: url("../images/icons/phone.png");
+    }
+  }
+
+  // No link back commercial license
+  // https://www.iconfinder.com/icons/186385/phone_smartphone_icon#size=128
+  &--cell {
+    background: url("../images/icons/cell.svg") no-repeat 0 .1em;
+
+    .no-svg & {
+      background-image: url("../images/icons/cell.png");
+    }
+  }
+
+  // No link back commercial license
+  // https://www.iconfinder.com/icons/315228/closed_envelope_mail_icon#size=128
+  &--envelope {
+    background: url("../images/icons/envelope.svg") no-repeat 0 .1em;
+
+    .no-svg & {
+      background-image: url("../images/icons/envelope.png");
+    }
+  }
+
+  // Custom Icon
+  &--web {
+    background: url("../images/icons/web.svg") no-repeat 0 .1em;
+
+    .no-svg & {
+      background-image: url("../images/icons/web.png");
+    }
+  }
+}

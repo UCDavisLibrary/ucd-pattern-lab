@@ -1,0 +1,52 @@
+<div class="page l-header--fixed">
+  {{> organisms-header }}
+  <div class="l-main" role="main">
+
+    {{> organisms-page-title }}
+
+    <div class="l-container l-davis-flipped">
+      {{> molecules-breadcrumbs }}
+
+      <div class="l-content">
+        <div class="panel o-box--large">
+          <!-- Featured Image -->
+          <div class="u-space-bottom--large">
+            {{> atoms-landscape-16x9 }}
+          </div>
+          <!-- Event date -->
+          <h2>{{ dayofweek.long }} {{ month.short }} {{ day.short }}, {{ year.long }} - {{ hour.long }}:{{ minute.long }} {{ hour.ampm }}</h2>
+          <!-- Presented by -->
+          <h3 class="u-space-bottom">{{ presenter.prefix }} {{ presenter.name }}</h3>
+          <div>
+            <a class="icon icon-link icon--location" href="{{ url }}">{{ location }}</a>
+          </div>
+          <div>
+            <a class="icon icon-link icon--calendar" href="{{ url }}">{{ add-to-calendar }}</a>
+          </div>
+          {{> molecules-social-share }}
+
+          <div class="u-clearfix">
+            {{> organisms-event-body }}
+          </div>
+
+          <h2 class="heading--auxiliary">Tags</h2>
+          {{> molecules-tags }}
+        </div>
+      </div><!--end .l-content-->
+
+      <div class="l-sidebar-second">
+        <div class="panel o-box">
+          <h2 class="panel__title">Upcoming Events</h2>
+          {{> organisms-event-list }}
+        </div>
+        <div class="panel o-box">
+          <h2 class="panel__title">Categories</h2>
+          {{> molecules-category-filter }}
+        </div>
+      </div><!--end .l-sidebar-second-->
+
+    </div><!--End .l-container-->
+
+  </div><!--End role=main-->
+  {{> organisms-footer }}
+</div>

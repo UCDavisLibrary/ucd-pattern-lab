@@ -1,0 +1,49 @@
+{
+  "name": "starterkit",
+  "version": "1.0.0",
+  "description": "Starterkit components via Bower",
+  "keywords": [
+    "sass"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "singularity": "1.6.2",
+    "breakpoint-sass": "2.6.1",
+    "normalize.scss": "4.0.3",
+    "sass-toolkit": "2.9.0",
+    "sass-burger": "1.2.1"
+  },
+  "dependencies": {
+    "jquery": "1.12.1",
+    "jquery-hoverintent": "1.8.1",
+    "slick-carousel": "1.5.5",
+    "bootstrap-select": "1.7.7",
+    "photoswipe": "4.1.0",
+    "superfish": "1.7.7",
+    "masonry": "4.0.0"
+  },
+  "overrides": {
+    "superfish": {
+      "main": [
+        "dist/js/superfish.js"
+      ]
+    },
+    "masonry": {
+      "main": "dist/masonry.pkgd.js",
+      "dependencies": {}
+    },
+    "slick-carousel": {
+      "main": [
+        "slick/slick.min.js",
+        "slick/slick.css"
+      ]
+    }
+  }
+}

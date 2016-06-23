@@ -1,0 +1,14 @@
+{{^ featured-image }}
+  <div class="page-title {{ category-brand }}">
+    <h1 class="page-title__title category-brand__text--knock-out">{{ title }}</h1>
+  </div>
+{{/ featured-image}}
+
+{{# featured-image }}
+  <div class="page-title page-title--banner {{ featured-image.category-brand }} {{# emergency }}u-space-below--flush{{/ emergency }}">
+    <div class="page-title__title--nested">
+      <h1 class="page-title__title category-brand__text--knock-out">{{ title }}</h1>
+    </div>
+    {{> atoms-title-banner }}
+  </div>
+{{/ featured-image }}

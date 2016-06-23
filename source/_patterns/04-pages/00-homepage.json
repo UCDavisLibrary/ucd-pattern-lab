@@ -1,0 +1,368 @@
+{
+  "title": "Home Page",
+  "bodyClass": "front",
+  "hero-banner": {
+    "btn-video": true,
+    "img": {
+      "hero": {
+        "src": "../../images/sample/homepage/horse-hero.jpg",
+        "alt": "It’s Right HERE"
+      }
+    },
+    "title": "IT'S RIGHT HERE AND NOW",
+    "excerpt": {
+      "short": "This site is a Pattern Library of all the components and styles for a UC Davis website with approved branding."
+    },
+    "btn-text": "Get the Code",
+    "url": "https://bitbucket.org/ietwebdev/sitefarm-pattern-lab-one"
+  },
+  "focal-links": [
+    {
+      "action-text": "Take Our Virtual Tour",
+      "icon": "tour"
+    },
+    {
+      "action-text": "Sign Up for Our Prospective Student Mailing List",
+      "icon": "mailing-list"
+    },
+    {
+      "action-text": "Join Our Alumni Association",
+      "icon": "alumni"
+    },
+    {
+      "action-text": "Make a Gift to UC Davis",
+      "icon": "giving"
+    }
+  ],
+  "event-list": [
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/research/doctoral-student.jpg",
+          "alt": "doctoral student researching"
+        }
+      },
+      "headline": {
+        "medium": "Native Plants: Home Landscape Champions"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "11"
+      }
+    },
+    {
+      "has-media-figure": false,
+      "headline": {
+        "medium": "Neighbors for Nepal Benefit Dinner and Concert"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "10"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/tiles/arboretum.jpg",
+          "alt": "Public Univerities"
+        }
+      },
+      "headline": {
+        "medium": "“Public Universities and Regional Development”"
+      },
+      "year": {
+        "long": "2015"
+      },
+      "month": {
+        "long": "July"
+      },
+      "day": {
+        "short": "16"
+      }
+    }
+  ],
+  "article-list": [
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/homepage/water-conservation.jpg",
+          "alt": "UC Davis employees make the connection between the recycled water pipeline and a cooling tower"
+        }
+      },
+      "headline": {
+        "medium": "‘Cool’ Conservation: UC Davis Saves 61 Million Gallons of Water a Year"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "June",
+        "short": "Jun",
+        "digit": "06"
+      },
+      "day": {
+        "long": "30",
+        "short": "30",
+        "ordinal": "th"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/homepage/beer.jpg",
+          "alt": "Beer and equipment in UC Davis brewing science program"
+        }
+      },
+      "headline": {
+        "medium": "Craft-brewing Leader Gives $1 Million to Enhance UC Davis Brewing Facility"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "June",
+        "short": "Jun",
+        "digit": "06"
+      },
+      "day": {
+        "long": "15",
+        "short": "15",
+        "ordinal": "th"
+      }
+    },
+    {
+      "img": {
+        "thumbnail": {
+          "src": "../../images/sample/homepage/graduates.jpg",
+          "alt": "Miguelangel Turcios and his sister, Christy"
+        }
+      },
+      "headline": {
+        "medium": "Siblings Overcome Major Challenges to Earn UC Davis Degrees"
+      },
+      "year": {
+        "long": "2015",
+        "short": "15"
+      },
+      "month": {
+        "long": "June",
+        "short": "Jun",
+        "digit": "06"
+      },
+      "day": {
+        "long": "10",
+        "short": "10",
+        "ordinal": "th"
+      }
+    }
+  ],
+  "spotlight": {
+    "url": "",
+    "callout": "13",
+    "headline": {
+      "short": "UC Davis Breakthroughs that Changed the World"
+    },
+    "img": {
+      "landscape-4x3": {
+        "src": "../../images/sample/homepage/research.jpg",
+        "alt": "Wow"
+      }
+    }
+  },
+  "marketing-highlight-featured": {
+    "short-burst": [
+      {
+        "brand-class": "category-brand--california-poppy",
+        "img": {
+          "landscape-4x3": {
+            "src": "../../images/sample/homepage/climbing-wall.jpg",
+            "alt": "Esther Ebuehi poses for a photo at the rock wall inside of the Activities and Recreation Center on the UC Davis campus."
+          }
+        },
+        "headline": {
+          "short": "The climbing wall"
+        },
+        "highlight-label": "Hot Spot",
+        "cta-text": "More about campus",
+        "highlight-content": {
+          "excerpt": {
+            "short": "At this popular hangout, practice rock climbing in preparation for an outdoor adventure in the Sierra"
+          }
+        }
+      },
+      {
+        "brand-class": "category-brand--western-redbud",
+        "img": {
+          "landscape-4x3": {
+            "src": "../../images/sample/homepage/picnicday-parade.jpg",
+            "alt": ""
+          }
+        },
+        "headline": {
+          "short": "We’ve got more than 500 student clubs"
+        },
+        "highlight-label": "Fast Fact",
+        "cta-text": "More UC Davis facts"
+      }
+    ]
+  },
+  "slideshow": [
+    {
+      "slides": [
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/tercero.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/tercero.jpg",
+              "alt": "Tercero Residence Halls"
+            }
+          },
+          "slide-title": {
+            "first-word": "Picture",
+            "remaining": "UC Davis"
+          },
+          "caption": false
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/arc.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/arc.jpg",
+              "alt": "The Activities and Recreation Center"
+            }
+          },
+          "caption": false
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/quad.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/quad.jpg",
+              "alt": "The Quad"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/arboretum.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/arboretum.jpg",
+              "alt": "The Arboretum"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/blindfolds.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/blindfolds.jpg",
+              "alt": "Intern Trust Training"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/chem194.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/chem194.jpg",
+              "alt": "Outside Chem 194"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/coffee-house.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/coffee-house.jpg",
+              "alt": "The Coffeehouse"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/community-center.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/community-center.jpg",
+              "alt": "The Student Community Center"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/dining-hall.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/dining-hall.jpg",
+              "alt": "A Dining Commons"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/farmers-market.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/farmers-market.jpg",
+              "alt": "The Davis Farmers Market"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/pavilion.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/pavilion.jpg",
+              "alt": "The Pavilion"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/pj-rino2.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/pj-rino2.jpg",
+              "alt": "Pajamarino"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/quad.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/quad.jpg",
+              "alt": "The Quad"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/stadium.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/stadium.jpg",
+              "alt": "The Football Stadium"
+            }
+          }
+        },
+        {
+          "img": {
+            "slideshow": {
+              "src": "../../images/sample/slideshows/homepage/wv-pool.jpg",
+              "lazy": "../../images/sample/slideshows/homepage/wv-pool.jpg",
+              "alt": "The West Village Pool"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
